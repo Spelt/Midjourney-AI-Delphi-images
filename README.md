@@ -1,6 +1,8 @@
 # Midjourney-AI-Delphi-images
 A repo for art created by Midjourney
 
+See human versions and higher resolutions here: https://github.com/Spelt/Midjourney-AI-Delphi-images/tree/main/human_versions
+
 
 <img align="right" src="an_ancient_spartan_helmet_in_gold_and_red_for_a_log_07bbfc76-9665-41e2-9bd3-102e3e50984b.png"/>
 <img align="right" src="delphi_wallpaper_spartan_helmet_6958612f-f4da-4b59-a040-a05e68b8f835.png"/>
